@@ -1,5 +1,5 @@
 <?php require('includes/authenticate_inc.php')?>
-
+<!--This is Login Page-->
 <html>
 
 <head>
